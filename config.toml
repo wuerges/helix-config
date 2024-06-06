@@ -3,6 +3,7 @@ theme = "ayu_evolve"
 [editor]
 line-number = "relative"
 bufferline = "multiple"
+scrolloff = 25
 #gutters = ["diff", "diagnostics", "line-numbers", "spacer"]
 
 [editor.cursor-shape]
