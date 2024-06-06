@@ -1,5 +1,6 @@
-#[[language]]
-#name = "rust"
+# [[language]]
+# name = "rust"
+# language-server = { command = "ra-multiplex" } 
 
 #[language.config]
 #cargo = { features = ["db-tests"] }
